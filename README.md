@@ -7,11 +7,19 @@ NOMBRE: Karen Tandazo
 NRC: 10067
 
 1. OBJETIVOS:
+
 OBJETIVOS GENERALES:
 
+• Analizar  circuitos RLC/ Resonancia y filtros pasivos para desarrollar la capacidad y las habilidades para diseñar 
+ problemas que pueden ocurrir en  circuitos RLC/Resonancia y comprender varios filtros pasivos. 
 
 OBJETIVOS ESPECÍFICOS:
 
+• Determinar la impedancia de un circuito RLC en paralelo
+
+• Analizar la resonancia en un circuito serie y paralelo
+
+• Analizar la operación de filtros pasabajas RC y RL
 
 2. MARCO TEÓRICO:
 
@@ -31,7 +39,12 @@ OBJETIVOS ESPECÍFICOS:
 
 ![6](https://user-images.githubusercontent.com/117767335/221338359-e9e79290-bed5-4cb0-9872-5042275f8a0e.png)
 
-3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:!
+3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
+
+
+
+
+
 
 
 
@@ -40,26 +53,18 @@ OBJETIVOS ESPECÍFICOS:
 
 5. CONCLUSIONES:
 
+Al momento de la redacción y resolución de los ejercicios del capítulo 17 de 
+“Principios de Circuitos Eléctricos” de Floyd se logro determinar el valor de la 
+impedancia en un circuito RLC y se analizo los circuitos en cuanto resonacia en serie 
+como en paralaleo y por ultimo se determino el ancho de banda de circuitos 
+resonantes.
+
+Al realizar la redacción y resolución de los ejercicios del capítulo 18 de
+“Principios de Circuitos Eléctricos” de Floyd se analizo la operacion de filtos 
+pasabajas y pasaaltas tanto como en RC/RL y rechazabanda.
+
+
+
 
 6. BIBLIOGRAFÍA:
 Thomas L. Floyd (2007). Principios de circuitos electricos. edición octava
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
