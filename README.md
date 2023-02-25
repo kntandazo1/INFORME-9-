@@ -137,8 +137,62 @@ OBJETIVOS ESPECÍFICOS:
 
 ![image](https://user-images.githubusercontent.com/117767335/221341427-b1bb74d1-db29-4ffc-a133-a5ab6f514b5b.png)
 
+![image](https://user-images.githubusercontent.com/117767335/221341473-ebe0522d-1a8d-4d2e-a548-a873990156bc.png)
+
+![image](https://user-images.githubusercontent.com/117767335/221341480-6ca7883e-dc44-4752-b010-667a8f6883fe.png)
+
+![image](https://user-images.githubusercontent.com/117767335/221341495-9ae32052-8002-4aba-980d-594b4d2c6238.png)
+
+![image](https://user-images.githubusercontent.com/117767335/221341514-a0334233-20ba-4797-9ecd-6b6e881cd3c7.png)
+
+![image](https://user-images.githubusercontent.com/117767335/221341542-36cd4f02-02ea-44b8-9606-ebd9e2bd2d35.png)
+
+![image](https://user-images.githubusercontent.com/117767335/221341553-ec9f4a87-da87-4078-b5a5-143a05b09de5.png)
+
+![image](https://user-images.githubusercontent.com/117767335/221341569-3f2eaab7-8e3d-405e-a995-bd07394fd8db.png)
+
+![image](https://user-images.githubusercontent.com/117767335/221341578-adc7c414-3e9b-400a-bc51-4de5b2d383ee.png)
 
 ##### SECCIÓN 18–2 Filtros pasaaltas
+
+![image](https://user-images.githubusercontent.com/117767335/221341612-10bc4db3-a831-41d6-a1cc-7eb8f5fb458c.png)
+
+![image](https://user-images.githubusercontent.com/117767335/221341620-1c2d17ee-2444-4c8f-953c-094a02143c41.png)
+
+![image](https://user-images.githubusercontent.com/117767335/221341634-1f460ad5-aa30-4a44-bf46-0bcd2c70f1d4.png)
+
+![image](https://user-images.githubusercontent.com/117767335/221341649-aa59ac62-e189-4b0c-90cf-6226a6c01afe.png)
+
+![image](https://user-images.githubusercontent.com/117767335/221341661-e0405bfa-56a1-4c27-9b5e-f5afeb978c6b.png)
+
+![image](https://user-images.githubusercontent.com/117767335/221341672-754225a0-917e-4df9-a20e-7461e5a543a2.png)
+
+![image](https://user-images.githubusercontent.com/117767335/221341681-25cf6523-4324-4a24-922b-aa82d5a4039d.png)
+
+![image](https://user-images.githubusercontent.com/117767335/221341693-7957c718-88cb-44f9-87d2-3d670005c82e.png)
+
+![image](https://user-images.githubusercontent.com/117767335/221341710-7917c58d-6f47-4ad8-9bf4-38b103912ef8.png)
+
+##### SECCIÓN 18–3 Filtros pasabanda
+
+![image](https://user-images.githubusercontent.com/117767335/221341741-9460646e-65c5-46c4-b37e-bfeab16ed9ec.png)
+
+![image](https://user-images.githubusercontent.com/117767335/221341746-095b28ca-3fcb-45b4-935c-9bdd7dca7eee.png)
+
+![image](https://user-images.githubusercontent.com/117767335/221341754-5e425cb7-04a4-44a1-a9d9-8899b8681d00.png)
+
+![image](https://user-images.githubusercontent.com/117767335/221341764-d0f5c48d-9e6d-405a-b155-14b4dda11cd9.png)
+
+![image](https://user-images.githubusercontent.com/117767335/221341781-8766f777-c3d4-4342-8cb6-52e0194d2b74.png)
+
+##### SECCIÓN 18–4 Filtros Rechazabanda
+
+![image](https://user-images.githubusercontent.com/117767335/221341805-4a05dc23-b893-414f-8097-616706f34974.png)
+
+![image](https://user-images.githubusercontent.com/117767335/221341835-231e0f77-8479-4994-9964-f9e52d8ca067.png)
+
+![image](https://user-images.githubusercontent.com/117767335/221341842-a0546db1-af57-412b-b93b-e5085517deda.png)
+
 4. VIDEO:
 
 
