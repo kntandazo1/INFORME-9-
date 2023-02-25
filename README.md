@@ -10,8 +10,9 @@ NRC: 10067
 
 OBJETIVOS GENERALES:
 
-• Analizar  circuitos RLC/ Resonancia y filtros pasivos para desarrollar la capacidad y las habilidades para diseñar 
- problemas que pueden ocurrir en  circuitos RLC/Resonancia y comprender varios filtros pasivos. 
+• Analizar  circuitos RLC/ Resonancia y filtros pasivos para desarrollar la capacidad 
+y las habilidades para diseñar problemas que pueden ocurrir en  circuitos
+RLC/Resonancia y comprender varios filtros pasivos. 
 
 OBJETIVOS ESPECÍFICOS:
 
@@ -41,8 +42,11 @@ OBJETIVOS ESPECÍFICOS:
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
 
+##### SECCIÓN 17–1 Impedancia de circuitos RLC en serie.
 
-
+1. Cierto circuito RLC en serie tiene los siguientes valores: R = 10 homs, C = 0.047 
+mF, y L = 5 mH. Determine la impedancia en forma polar. ¿Cuál es la reactancia neta? 
+La frecuencia de la fuente es de 5 kHz.
 
 
 
