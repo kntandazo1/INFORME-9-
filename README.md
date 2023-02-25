@@ -198,18 +198,19 @@ OBJETIVOS ESPECÍFICOS:
 
 5. CONCLUSIONES:
 
-Al momento de la redacción y resolución de los ejercicios del capítulo 17 de 
-“Principios de Circuitos Eléctricos” de Floyd se logro determinar el valor de la 
-impedancia en un circuito RLC y se analizo los circuitos en cuanto resonacia en serie 
-como en paralaleo y por ultimo se determino el ancho de banda de circuitos 
-resonantes.
+Se concluye que un circuito RCL presenta la propiedad de resonancia, la misma que es la base de la selectividad de frecuencia 
+en sistemas de comunicaciones, además se estudia las condiciones y características que produce la resonancia en circuitos 
+paralelos, serie y serie-paralelo.
 
-Al realizar la redacción y resolución de los ejercicios del capítulo 18 de
-“Principios de Circuitos Eléctricos” de Floyd se analizo la operacion de filtos 
-pasabajas y pasaaltas tanto como en RC/RL y rechazabanda.
+En conclusión, un circuito RLC en serie está formado por una resistencia, un inductor y un condensador. Las reactancias inductiva
+y capacitiva tienen efectos opuestos en el ángulo de fase del circuito, de modo que la reactancia global es menor que las reactancias 
+individuales, pero como la resonancia es una situación en la que las reactancias capacitiva e inductiva son iguales, se anulan 
+mutuamente, dando lugar a una impedancia puramente resistiva.
 
-
-
+Se concluye que los filtros de pasaaltas permite que fluya señales de alta frecuencia y los filtros de pasabajas permite que fluya las 
+señales de baja frecuencia, los filtros de pasabanda permiten que pasen las señales que se encuentran en un determinado intervalo de 
+frecuencia, si una frecuencia se pasa del intervalo es eliminada y los filtros de rechazabanda es lo opuesto a los filtros de pasabanda 
+debido a que determina el intervalo de frecuencia donde las frecuencias son rechazadas.
 
 6. BIBLIOGRAFÍA:
 Thomas L. Floyd (2007). Principios de circuitos electricos. edición octava
